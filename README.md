@@ -742,5 +742,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Accessibility advocates for guidance and best practices
 
 ---
-
-Built with ❤️ for education and open source software adoption.
